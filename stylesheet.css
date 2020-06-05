@@ -44,6 +44,7 @@ h1 {
     float:left;
     text-align: center;
     cursor: default;
+    line-height:44px;
 }
 
 #nav-bg {
@@ -58,6 +59,7 @@ h1 {
     float:left;
     text-align: center;
     transition: background-color .5s;
+    line-height:44px;
 }
 
 #nav-bg:hover {
@@ -67,7 +69,6 @@ h1 {
 #nav-text {
     font-family: helvetica;
     font-size: calc(18px + (.8vw));
-    margin-top: calc((40px - (18px + (.8vw)))/2);
     text-align: center;
     font-weight: bold;
 }
