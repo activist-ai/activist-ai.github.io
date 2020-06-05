@@ -14,7 +14,7 @@ div {
     width:100%;
     position:fixed;
     top:20px;
-    background-color:orange;
+    background-color:DarkOrange;
     position:absolute;
     left:0px;
 
@@ -38,7 +38,7 @@ h1 {
     border-style:solid;
     border-color:white;
     border-width:4px;
-    color:orange;
+    color:DarkOrange;
     width: calc((100% / 3) - 2%);
     height:48px;
     margin:1%;
@@ -48,7 +48,7 @@ h1 {
 }
 
 #nav-bg {
-    background-color:orange;
+    background-color:DarkOrange;
     border-style:solid;
     border-color:white;
     border-width:4px;
@@ -62,7 +62,7 @@ h1 {
 }
 
 #nav-bg:hover {
-    background-color:#FFC04D;
+    background-color:Orange;
 }
 
 #nav-text {
@@ -78,6 +78,7 @@ h1 {
     left:8%;
     right:8%;
     bottom:-30px;
+    max-width:550px;
 }
 
 #content {
@@ -87,4 +88,6 @@ h1 {
     margin-top: 30px;
     margin-left: 10%;
     margin-right:10%;
+    font-family:helvetica;
+    font-size: 14pt;
 }
