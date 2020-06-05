@@ -9,6 +9,25 @@ div {
     -webkit-box-sizing: border-box;
 }
 
+h1 {
+    margin-left: 10%;
+    margin-top: 25px;
+    color: white;
+    font-family: helvetica;
+    font-size: 40px;
+    margin-bottom: 40px;
+    text-decoration: none;
+}
+
+a {
+    color:#0496FF;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #97CC04;
+}
+
 #banner {
     width:100%;
     position:fixed;
@@ -20,16 +39,6 @@ div {
     /*border-style: solid;
     border-color: black;
     border-width: 1px;*/
-}
-
-h1 {
-    margin-left: 10%;
-    margin-top: 25px;
-    color: white;
-    font-family: helvetica;
-    font-size: 40px;
-    margin-bottom: 40px;
-    text-decoration: none;
 }
 
 #nav-fg {
@@ -90,4 +99,10 @@ h1 {
     margin-right:10%;
     font-family:helvetica;
     font-size: 14pt;
+}
+
+#project-info {
+}
+
+#project-list {
 }
