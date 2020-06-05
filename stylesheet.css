@@ -13,7 +13,7 @@ div {
     width:100%;
     position:fixed;
     top:20px;
-    background-color:DarkOrange;
+    background-color:#00487C;
     position:absolute;
     left:0px;
 
@@ -37,7 +37,7 @@ h1 {
     border-style:solid;
     border-color:white;
     border-width:4px;
-    color:DarkOrange;
+    color:#0496FF;
     width: calc((100% / 3) - 2%);
     height:48px;
     margin:1%;
@@ -48,7 +48,7 @@ h1 {
 }
 
 #nav-bg {
-    background-color:DarkOrange;
+    background-color:#0496FF;
     border-style:solid;
     border-color:white;
     border-width:4px;
@@ -58,7 +58,7 @@ h1 {
     margin:1%;
     float:left;
     text-align: center;
-    transition: background-color .5s;
+    transition: background-color .3s;
     line-height:40px;
 }
 
